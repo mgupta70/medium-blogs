@@ -1,0 +1,4 @@
+train: C:/Users/mgupta70.ASURITE/Dropbox (ASU)/ASU/PhD/Internships/interview/Car_project/sample/images/train
+val: C:/Users/mgupta70.ASURITE/Dropbox (ASU)/ASU/PhD/Internships/interview/Car_project/sample/images/val
+nc: 1
+names: ['odometer']
